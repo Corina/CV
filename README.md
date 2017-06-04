@@ -52,8 +52,8 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 - Constant review of work quality making sure it follows project specification
 - Often taking tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform
 
-**Ipsos Interactive Services** (May 2009 – September 2012)   
-*Senior Project Manager*  
+**Ipsos Interactive Services** (May 2009 – September 2012)
+*Senior Project Manager*
 
 - Managing online conducted research studies according to company and field standards.
 - Preparing documentation for online projects, monitoring the evolution of data gathering, checking for inconsistencies
