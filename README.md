@@ -37,7 +37,7 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 ## Experience
 
 **actûrus** (July 2013 to July 2016)
-*Senior Project Manager *
+*Senior Project Manager*
 
 - Ensure the smooth running of a multi-country study and budget up to $900k
 - Report to Global Operations Director
@@ -53,7 +53,7 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 - Often taking tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform
 
 **Ipsos Interactive Services** (May 2009 – September 2012)   
-*Senior Project Manager *  
+*Senior Project Manager*  
 
 - Managing online conducted research studies according to company and field standards.
 - Preparing documentation for online projects, monitoring the evolution of data gathering, checking for inconsistencies
