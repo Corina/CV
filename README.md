@@ -1,6 +1,6 @@
 ## Mihaela Corina Gheorghe
 
-A former Project Manager in Market Research, currently learning how to code at Makers Academy. During 8 years as Project Manager I coordinated teams from technical and non-technical background and working with the development teams was always most fun part of the job. So I decided to learn coding and can switch to a more creative and challenging job: I want to make "stuff".
+A former Project Manager in Market Research, currently learning how to code at Makers Academy. During 8 years as Project Manager I coordinated teams from technical and non-technical background and working with the development teams was always the most fun part of the job. So I decided to learn coding and switch to a more creative and challenging job: I want to make "stuff".
 
 ## Skills
 
@@ -37,7 +37,7 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 ## Experience
 
 **actûrus** (July 2013 to July 2016)
-*Senior Project Manager*
+*Senior Project Manager *
 
 - Ensure the smooth running of a multi-country study and budget up to $900k
 - Report to Global Operations Director
