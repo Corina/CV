@@ -34,21 +34,21 @@ Project | Description | Technologies Used | Testing Technologies
 
 
 ### <a name="makers">Makers Academy (June to August 2017)</a>
+The Makers way:
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
-- Software Craftsmanship
-- Ruby, Rails, Javascript,
-- Rspec, Jasmine, Capybara
+- **Learn to learn** is the motto of the Makers experience and I learned to  learn autonomously and progress independently.
+- **Pair programming** is a key part of Makers Academy experience and I learned to love it.
+- **Learning to collaborate** is as important as learning to code. As part of the agile training we learned to deliver to tight deadlines, resolve conflicts, and efficiently communicate with each other.
+- The focus on **software craftsmanship**, **TDD**, **OOD**, **MVC** and **SOLID** helped engrain best coding practices into me.
+
 
 ### <a name="education">Education</a>
 
-#### Academy of Economic Studies, Bucharest ( October 2005 to July 2009)
+##### Academy of Economic Studies, Bucharest ( October 2005 to July 2009)
 
 - Bachelor’s Degree in Economics, Majored in Marketing
 
-#### APMG Agile PM Foundation
+##### APMG Agile PM Foundation
 
 
 ### <a name="experience">Experience</a>
@@ -57,14 +57,9 @@ Project | Description | Technologies Used | Testing Technologies
 *Senior Project Manager*
 
 - Ensure the smooth running of a multi-country study and budget up to $900k
-- Report to Global Operations Director
 - Develop project plans and make adjustments as necessary to meet changing needs and requirements of the business
 - Determine the resources (time, money, equipment, etc.) required to complete the project
-- Make sure timings and budget are in line with the business case
-- Provide direction and support to project team
-- Create documentation and guidelines for other teams involved
 - Keep constant contact with different teams, both internal and external, managing expectations and risk
-- Make sure that interested teams across the company have good visibility into the status of the project through reports on key indicators
 - Operate as first point of contact for project related troubleshooting requiring immediate attention
 - Constant review of work quality making sure it follows project specification
 - Often taking tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform
@@ -73,9 +68,6 @@ Project | Description | Technologies Used | Testing Technologies
 *Senior Project Manager*
 
 - Managing online conducted research studies according to company and field standards.
-- Preparing documentation for online projects, monitoring the evolution of data gathering, checking for inconsistencies
-- Collaborating with external providers
-- Providing clients with accurate reports and data
 - Coaching new members of the team
 - Worked remotely out of the London office for 3 months, during which I provided training and support, improving cross-team collaboration and communication
 
