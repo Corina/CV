@@ -1,23 +1,29 @@
-## Mihaela Corina Gheorghe
+## Corina Gheorghe
+
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
 A former Project Manager in Market Research, currently learning how to code at Makers Academy. During 8 years as Project Manager I coordinated teams from technical and non-technical background and working with the development teams was always the most fun part of the job. So I decided to learn coding and switch to a more creative and challenging job: I want to make "stuff".
 
-## Skills
+***
 
-#### Efficient communication
+## <a name="skills">Skills</a>
 
-I can efficiently communicate with teams from various backgrounds by adjusting the volume of information and jargon to that team's needs. As a Project Manager at acturus I interacted with multiple international vendors, client service teams, sales teams, internal and external engineering teams as well as upper management.
+- **Efficient communication**: I can efficiently communicate with teams from various backgrounds by adjusting the volume of information and jargon to that team's needs. As a Project Manager at acturus I interacted with multiple international vendors, client service teams, sales teams, internal and external engineering teams as well as upper management.
 
-#### Developing project plans 
+- **Developing project plans**: I can develop a project schedule and make adjustments as necessary to meet changing needs, determine the resources (time, money, equipment, etc.) required to complete the project
 
-I can develop a project schedule and make adjustments as necessary to meet changing needs, determine the resources (time, money, equipment, etc.) required to complete the project
+- **Timeline management** 
 
-#### Additional Skills
-- Team coordination
-- Budget management
-- Timeline management 
+***
 
-## Education
+### <a name="projects">Projects & Code</a>
+Project | Description | Technologies Used | Testing Technologies
+--- | --- | --- | --- 
+[News Summary App][2] | An app that shows the latest headlines in UK and a summary of each headline when you click on the title of an article. | Vanilla JavaScript| Testing platform developed using Vanilla JavaScrip
+
+***
+
+## <a name="education">Education</a>
 
 #### Makers Academy (June to August 2017)
 
@@ -34,7 +40,8 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 
 #### APMG Agile PM Foundation 
 
-## Experience
+
+## <a name="experience">Experience</a>
 
 **actûrus** (July 2013 to July 2016)
 *Senior Project Manager*
@@ -67,3 +74,10 @@ I can develop a project schedule and make adjustments as necessary to meet chang
 
 - Data processing tasks and independently handling projects to provide quality outputs for analysis and reports, according to project specifications and data processing standards.
 - Worked with SPSS, ASCII databases and Sherpa files.
+
+## <a name="contact">Contact</a>
+- Github: [Corina] [1]
+
+[1]: https://github.com/Corina
+[2]: https://github.com/Corina/news-summary
+
