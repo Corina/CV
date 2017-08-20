@@ -6,7 +6,7 @@ I am a full-stack junior web developer passionate about learning new technologie
 
 In a previous life as a Project Manager in Market Research (coordinating several international teams, both technical and non-technical), I realized that working with the software development team was the most interesting and fun part of the job. I loved to see how they took an idea and transformed it into an working product. I decided this is what I want to do next in my career, so I joined Makers Academy.
 
-I am looking for a role that requires someone inquisitive and eager to learn, where I can also use the set of skills acquired as a Project Manager.
+I am looking for a role that requires someone inquisitive and eager to learn, where I can also leverage the set of skills acquired as a Project Manager.
 
 
 ### <a name="skills">Skills</a>
