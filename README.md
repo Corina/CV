@@ -2,24 +2,23 @@
 
 [Skills](#skills) | [Projects](#projects) | [Makers](#makers) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
-I am a full-stack junior web developer passionate about learning new technologies and applying best coding practices to build useful and fun to use apps.
+London based full-stack junior web developer, passionate about learning new technologies, best coding practices and building useful and fun apps.
 
 In a previous life as a Project Manager in Market Research (coordinating several international teams, both technical and non-technical), I realized that working with the software development team was the most interesting and fun part of the job. I loved to see how they took an idea and transformed it into an working product. I decided this is what I want to do next in my career, so I joined Makers Academy.
 
-I am looking for a role that requires someone inquisitive and eager to learn, where I can also leverage the set of skills acquired as a Project Manager.
+I'm looking for a role that requires someone inquisitive and eager to learn, where I can also leverage the set of skills acquired as a Project Manager.
 
 
 ### <a name="skills">Skills</a>
 - **Technologies**: In my time at Makers Academy I learned how to work with Ruby, PostgreSQL, Sinatra, Rails, JavaScript, jQuery, Bootstrap, HTML, CSS, Canvas.
 
-- **Fast learner**: It took me less than a week to learn the basics of JavaScript at Makers. By the end of the week I was able to independently create the [News Summary App][2], written in Vanilla JavaScript and incorporating communication with 2 APIs, The Guardian API and Aylien API.
+- **Fast learner**: It took me less than a week to learn the basics of JavaScript at Makers. By the end of the week I was able to independently create the [News Summary App][2], written in vanilla JavaScript and incorporating communication with 2 APIs, The Guardian API and Aylien API.
 
+- **Efficient communication**: As a Project Manager at acturus I interacted with multiple international vendors, client service teams, sales teams, internal and external engineering teams as well as upper management, so I can communicate efficiently with teams from various backgrounds. 
 
-- **Efficient communication**: I can efficiently communicate with teams from various backgrounds by adjusting the volume of information and jargon to that team's needs. As a Project Manager at acturus I interacted with multiple international vendors, client service teams, sales teams, internal and external engineering teams as well as upper management.
+- **Perform well under pressure**: when workload increased by 30% due to layoffs in my previous company, I adapted to manage expectations for all involved in the project and I spent time streamlining and making old processes more efficient. For example, by improving the way I sent daily specifications to panel vendors I gained almost 1 hour / day.
 
-- **Perform well under pressure**: In my old role my workload increased by 30% due to redundancies. I first made sure to manage expectations for all involved in the project and next I spend time streamlining and making old processes more efficient. For example by improving the way I sent daily specifications to panel vendors I gained almost 1 hour a day.
-
-- **Good collaborator**: Communication and a positive attitude are important when working in a team and I try to be a driving force for both.
+- **Good collaborator**: I know that communication and a positive attitude are critical when working in a team and I try to be a driving force for both.
 
 - **Dual perspective**: From my previous role I know the importance of maintaining a budget and a timeline but now I can also estimate the complexity of the technical challenges.
 
@@ -27,19 +26,19 @@ I am looking for a role that requires someone inquisitive and eager to learn, wh
 ### <a name="projects">Projects & Code</a>
 Project | Description | Technologies Used | Testing Technologies
 --- | --- | --- | ---
-[News Summary App][2] | An app that shows the latest headlines in UK and a summary of each headline when you click on the title of an article. | Vanilla JavaScript| Framework developed using Vanilla JavaScript
-[Instagram clone][3]| Instagram is a web app where users can add images, see images posted by other people and comment on them. |Ruby on Rails, Devise, PostgreSQL| Rspec, Capybara
-
-
+[News Summary App][2] | An app that shows the latest headlines in UK and a summary of each headline when you click on it. |  JavaScript + APIs | Framework developed using vanilla JavaScript
+[Instagram clone][3] | Instagram is a web app where users can add images, see images posted by other people and comment on them. | Ruby on Rails, Devise, PostgreSQL | Rspec, Capybara
+[Rock Paper Scissors][4] | A Rock Paper Scissors app with a story | Ruby, Sinatra | Rspec, Capybara
+[Chitter][5] | A simpler Twitter | Ruby, Sinatra | Rspec, Capybara
 
 
 ### <a name="makers">Makers Academy (June to August 2017)</a>
 The Makers way:
 
-- **Learn to learn** is the motto of the Makers experience and I learned to  learn autonomously and progress independently.
-- **Pair programming** is a key part of Makers Academy experience and I learned to love it.
+- **Learn to learn** is the motto of the Makers experience and I learned to learn autonomously and progress independently.
+- **Pair programming** is a key part of Makers Academy experience. By pair programming I improved my communication skills regarding code and I have a better appreciation of someone else's ideas and knowledge.
 - **Learning to collaborate** is as important as learning to code. As part of the agile training we learned to deliver to tight deadlines, resolve conflicts, and efficiently communicate with each other.
-- The focus on **software craftsmanship**, **TDD**, **OOD**, **MVC** and **SOLID** helped engrain best coding practices into me.
+- The focus on **TDD**, **OOD** and **MVC** helped engrain best coding practices into me.
 
 
 ### <a name="education">Education</a>
@@ -56,13 +55,12 @@ The Makers way:
 **actûrus** (July 2013 to July 2016)
 *Senior Project Manager*
 
-- Ensure the smooth running of a multi-country study and budget up to $900k
-- Develop project plans and make adjustments as necessary to meet changing needs and requirements of the business
-- Determine the resources (time, money, equipment, etc.) required to complete the project
-- Keep constant contact with different teams, both internal and external, managing expectations and risk
-- Operate as first point of contact for project related troubleshooting requiring immediate attention
-- Constant review of work quality making sure it follows project specification
-- Often taking tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform
+My focus was ensuring the smooth running of a multi-country study, at one point representing 30% of the company's revenue.
+My role was to make sure teams from across the world and from different industries worked perfectly together to deliver the data we collected on time and as specified. I was in charge of developing the project plan and determine the resources (time, money, equipment, etc.) required to deliver. 
+
+I was regularly responsible for managing expectations and risk, operating as first point of contact for project related troubleshooting and was also in charge of quality assurance - I did the final checks on the online surveys. My attention to detail payed off several times, but one case in particular I'm most proud of: in a Japanese survey, one question didn't seem right. I don't speak Japanese and the survey was matching the specification, but it felt different from the other surveys I've done in Japanese. After running the text through Google Translate I realized that the spec had an error: two answer options were the same, one of them slightly rephrased. This error could have meant re-doing part of the work, added cost and delayed delivery.
+
+I often took on tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform.
 
 **Ipsos Interactive Services** (May 2009 – September 2012)
 *Senior Project Manager*
@@ -83,3 +81,5 @@ The Makers way:
 [1]: https://github.com/Corina
 [2]: https://github.com/Corina/news-summary
 [3]: https://github.com/Corina/instagram-challenge
+[4]: https://github.com/Corina/rps-challenge
+[5]: https://github.com/Corina/chitter-challenge
