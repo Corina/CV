@@ -6,8 +6,7 @@ London based full-stack junior web developer, passionate about learning new tech
 
 In a previous life as a Project Manager in Market Research (coordinating several international teams, both technical and non-technical), I realized that working with the software development team was the most interesting and fun part of the job. I loved to see how they took an idea and transformed it into an working product. I decided this is what I want to do next in my career, so I joined Makers Academy.
 
-I'm looking for a role that requires someone inquisitive and eager to learn, where I can also leverage the set of skills acquired as a Project Manager.
-
+I want to learn how to build new and interesting things that people love to use. 
 
 ### <a name="skills">Skills</a>
 - **Technologies**: In my time at Makers Academy I learned how to work with Ruby, PostgreSQL, Sinatra, Rails, JavaScript, jQuery, Bootstrap, HTML, CSS, Canvas.
@@ -24,6 +23,16 @@ I'm looking for a role that requires someone inquisitive and eager to learn, whe
 
 
 ### <a name="projects">Projects & Code</a>
+
+#### Final Project
+Project | Description | Technologies Used | Testing Technologies
+--- | --- | --- | ---
+[Percepticon][6] | Type in or paste an article headline found on the Internet and THE PERCEPTICON will tell you if it's good or bad journalism | HTML/CSS/JS, jQuery, Firebase, Perceptron | 
+[Percepticon API][7]| Send an article headline found on the Internet and THE PERCEPTICON will tell you if it's good or bad journalism | Ruby on Rails | Rspec
+[Perceptron][8] | A Ruby gem containing a linear binary classifier | Ruby | Rspec
+
+
+#### Individual Projects
 Project | Description | Technologies Used | Testing Technologies
 --- | --- | --- | ---
 [News Summary App][2] | An app that shows the latest headlines in UK and a summary of each headline when you click on it. |  JavaScript + APIs | Framework developed using vanilla JavaScript
@@ -55,10 +64,11 @@ The Makers way:
 **actûrus** (July 2013 to July 2016)
 *Senior Project Manager*
 
-My focus was ensuring the smooth running of a multi-country study, at one point representing 30% of the company's revenue.
-My role was to make sure teams from across the world and from different industries worked perfectly together to deliver the data we collected on time and as specified. I was in charge of developing the project plan and determine the resources (time, money, equipment, etc.) required to deliver. 
+I was responsible for delivering a multi-country, large budget project in the alcohol industry.
 
-I was regularly responsible for managing expectations and risk, operating as first point of contact for project related troubleshooting and was also in charge of quality assurance - I did the final checks on the online surveys. My attention to detail payed off several times, but one case in particular I'm most proud of: in a Japanese survey, one question didn't seem right. I don't speak Japanese and the survey was matching the specification, but it felt different from the other surveys I've done in Japanese. After running the text through Google Translate I realized that the spec had an error: two answer options were the same, one of them slightly rephrased. This error could have meant re-doing part of the work, added cost and delayed delivery.
+I wore many hats, some more fun than others: keeping all project stakeholders up to date with how things are going, managing expectations both internal and external, operating as first point of contact for project related troubleshooting, as well as planning the roadmap and managing available resources (money, equipment, teams, etc.).
+
+I was constantly doing QA on the deliverables and my attention to detail payed off several times, but one case in particular I'm most proud of: in a Japanese survey, one question didn't seem right. I don't speak Japanese and the survey was matching the specification, but it felt different from the other surveys I've done in Japanese. After running the text through Google Translate I realized that the spec had an error: two answer options were the same, one of them slightly rephrased. This error could have meant re-doing part of the work, added cost and delayed delivery.
 
 I often took on tasks outside my role, from participating in proposal writing to helping with quality assurance process while setting up a new reporting platform.
 
@@ -76,10 +86,13 @@ I often took on tasks outside my role, from participating in proposal writing to
 - Worked with SPSS, ASCII databases and Sherpa files.
 
 ### <a name="contact">Contact</a>
-- Github: [Corina][1]
+- Github: [corina][1]
 
-[1]: https://github.com/Corina
-[2]: https://github.com/Corina/news-summary
-[3]: https://github.com/Corina/instagram-challenge
-[4]: https://github.com/Corina/rps-challenge
-[5]: https://github.com/Corina/chitter-challenge
+[1]: https://github.com/corina
+[2]: https://github.com/corina/news-summary
+[3]: https://github.com/corina/instagram-challenge
+[4]: https://github.com/corina/rps-challenge
+[5]: https://github.com/corina/chitter-challenge
+[6]: https://github.com/corina/percepticon-frontend
+[7]: https://github.com/corina/percepticon
+[8]: https://github.com/corina/Perceptron
