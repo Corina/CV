@@ -24,17 +24,9 @@ I want to learn how to build new and interesting things that people love to use.
 
 ### <a name="projects">Projects & Code</a>
 
-#### Final Project
 Project | Description | Technologies Used | Testing Technologies
 --- | --- | --- | ---
-[Percepticon][6] | Type in or paste an article headline found on the Internet and THE PERCEPTICON will tell you if it's good or bad journalism | HTML/CSS/JS, jQuery, Firebase, Perceptron | 
-[Percepticon API][7]| Send an article headline found on the Internet and THE PERCEPTICON will tell you if it's good or bad journalism | Ruby on Rails | Rspec
-[Perceptron][8] | A Ruby gem containing a linear binary classifier | Ruby | Rspec
-
-
-#### Individual Projects
-Project | Description | Technologies Used | Testing Technologies
---- | --- | --- | ---
+[Percepticon API][7]| Send an article headline found on the Internet and THE PERCEPTICON will tell you if it's good or bad journalism. We built [Perceptron][8], a gem, for the ML algorithm and a [front-end][6] page. | HTML/CSS/JS, jQuery, Firebase, Ruby | Rspec
 [News Summary App][2] | An app that shows the latest headlines in UK and a summary of each headline when you click on it. |  JavaScript + APIs | Framework developed using vanilla JavaScript
 [Instagram clone][3] | Instagram is a web app where users can add images, see images posted by other people and comment on them. | Ruby on Rails, Devise, PostgreSQL | Rspec, Capybara
 [Rock Paper Scissors][4] | A Rock Paper Scissors app with a story | Ruby, Sinatra | Rspec, Capybara
