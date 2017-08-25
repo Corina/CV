@@ -67,15 +67,19 @@ I often took on tasks outside my role, from participating in proposal writing to
 **Ipsos Interactive Services** (May 2009 – September 2012)
 *Senior Project Manager*
 
-- Managing online conducted research studies according to company and field standards.
-- Coaching new members of the team
-- Worked remotely out of the London office for 3 months, during which I provided training and support, improving cross-team collaboration and communication
+I was responsible with managing online conducted research studies according to company and field standards.
+
+Day to day activities included preparing documentation for online projects, monitoring the evolution of data gathering, checking for inconsistencies, suggesting ways to improve timing and quality, collaborating with external providers, and finally providing the clients with accurate reports and data.
+
+I also spent 3 months in the London office where I provided training and support for the team there. This helped cross-team collaboration and communication.
+
+Aside from the usual tasks, I also coached new members of the team.
 
 **Ipsos Interactive Services** (October 2007 – April 2009)
 *Data Analyst*
 
-- Data processing tasks and independently handling projects to provide quality outputs for analysis and reports, according to project specifications and data processing standards.
-- Worked with SPSS, ASCII databases and Sherpa files.
+I was responsible with performing day-to-day data processing tasks and independently handling projects to provide quality outputs for analysis and reports, according to project specifications and data processing standards.
+Daily work included SPSS, ASCII databases and Sherpa files
 
 ### <a name="contact">Contact</a>
 - Github: [corina][1]
